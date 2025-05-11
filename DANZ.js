@@ -3,7 +3,7 @@ const { exec } = require('child_process');
 const sqlite3 = require('sqlite3').verbose();
 const { DateTime, Duration } = require('luxon');
 
-const BOT_TOKEN = "7730477659:AAGxCdAWSh7Iy2p6ieNTdMF0TLF1HnA6iPU";
+const BOT_TOKEN = "7484542844:AAErM2fNbs0rZH32nePI NPR44AkpyRQIFKY For a description of the Bot API, see";
 const ADMIN_ID = "7732851201";
 const START_PY_PATH = "/workspaces/MHDDoS/start.py";
 
